@@ -122,6 +122,21 @@ $ ls
 my-steps.txt  plants/  proteins/  sweets/  veggies/
 
 ### Step 4
+$ git init
+Initialized empty Git repository in C:/Users/joane/OneDrive/Desktop/unit-1-git-practice/.git/
+$ git add .
+warning: in the working copy of 'my-steps.txt', LF will be replaced by CRLF the next time Git touches it
+$ git commit -m 'first commit'
+[master (root-commit) 44a2c6e] first commit
+ 8 files changed, 134 insertions(+)
+ create mode 100644 my-steps.txt
+ create mode 100644 plants/carrot.txt
+ create mode 100644 plants/pea.txt
+ create mode 100644 proteins/meats/crab.txt
+ create mode 100644 proteins/tofu.txt
+ create mode 100644 sweets/donut.txt
+ create mode 100644 veggies/carrot.txt
+ create mode 100644 veggies/pea.txt
 
 
 ### Step 5
